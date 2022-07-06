@@ -1,0 +1,50 @@
+.box1{
+  display: flex;
+}
+.box2{
+  display: flex;
+  margin: 20px;
+
+}
+
+/* .nav{
+  font-size: 1cm;
+  margin-right: 200px;
+
+} */
+#text1{
+  height: 30px;
+  border-radius: 8px;
+  border: solid 9px blue;
+  
+}
+sub{
+  margin-left: 20px;
+  padding: 4px;
+}
+
+button{
+  height: 40px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #5c4caf;
+  transition-duration: 0.4s;
+}
+button:hover {
+  background-color: #574caf; /* Green */
+  color: rgb(255, 255, 255);
+}
+#Backlog-one
+{
+  margin-top:20px;
+  width: 150px;
+  text-align: center;
+}
+#Backlog2{
+  margin-top:20px;
+  width: 150px;
+  text-align: center;
+}
+.kanban-board{
+  
+}
